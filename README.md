@@ -4,7 +4,7 @@ I am a backend software engineer in Stockholm, Sweden, at Playground Tech. I foc
 
 - 🔭 I’m currently working on [Akkatecture](https://akkatecture.net)
 - 🌱 I’m currently learning [Blender](https://www.blender.org/)
-- 💬 Ask me about The Actor Model
+- 💬 Ask me about The Actor Model, Domain Driven Design, & Reactive Architectures.
 - 📫 How to reach me: [@LutandoNgqakaza](https://twitter.com/LutandoNgqakaza)
 - 😄 Pronouns: Him/his
 - ⚡ Fun fact: I hail from Cape Town South Africa, but now I live in the cold north of Sweden.
