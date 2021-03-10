@@ -7,4 +7,5 @@ I am a backend software engineer in Stockholm, Sweden, at Playground Tech. I foc
 - 💬 Ask me about The Actor Model
 - 📫 How to reach me: [@LutandoNgqakaza](https://twitter.com/LutandoNgqakaza)
 - 😄 Pronouns: Him/his
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I hail from Cape Town South Africa, but now I live in the cold north of Sweden.
+![Lutando's github stats](https://github-readme-stats.vercel.app/api?username=Lutando&show_icons=true
